@@ -3,7 +3,7 @@
 Laravel 9 experiment base for post & mail (like) page. Developing continue maybe here, maybe in new branch or rep. Inspired by Traversymedia feat Alex 
 
 2.2.2022
-- Start for base
+- Start for base inc Post, Mail, Auth with Permissions
 
 Installation
 - Don't know yet for sure how to install, have installed only Laravel's own starters :)
